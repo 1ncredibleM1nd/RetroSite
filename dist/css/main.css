@@ -3,7 +3,11 @@
 @import url(content.css);
 @import url(advantages.css);
 @import url(menu.css);
+@import url(sale.css);
+@import url(events.css);
 body{
     font-family: Bazar sans-serif;
     background-color: #7ababa;
+    margin: 0;
+    padding: 0;
 }
